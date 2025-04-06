@@ -1,0 +1,30 @@
+# Ignorar carpeta de imágenes
+img/
+/img/
+*/img/
+
+# Ignorar entorno virtual de Python
+exe_env/
+/exe_env/
+*/exe_env/
+
+# Archivos comunes para ignorar
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.log
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
